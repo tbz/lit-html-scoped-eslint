@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "lit-html-scoped-eslint",
+    "dependencies": {
+        "lit": "^3.0.0",
+        "eslint": "^9.0.0"
+    }
+}
